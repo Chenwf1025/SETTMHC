@@ -7,7 +7,7 @@ with open('./requirements.txt') as f:
 
 setup(
     name='settmhc',
-    version='1.2.5',
+    version='1.0.0',
     description='A peptide-MHC binding predictor based on sequence-structure information',
     author='Chen Wenfan',
     author_email='wenfanchan@zju.edu.cn',
